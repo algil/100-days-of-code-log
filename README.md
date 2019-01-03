@@ -14,3 +14,11 @@ The log of my challenge 100 Days Of Code
 **Link to work:**
 
 - [Flutter Demo Project](https://github.com/algil/flutter_app/commit/a8c25e71152cf72a318148a45d1c7b77dbcbff7f)
+
+### Day 2: 2 January 2019
+
+**Today's Progress**:
+
+- Implemented eslint + prettier configuration in personal Vue project
+- Continuation of the flutter course in Platzi
+- Playing with Strapi to create a "mock" API
