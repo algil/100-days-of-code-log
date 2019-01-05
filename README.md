@@ -22,3 +22,16 @@ The log of my challenge 100 Days Of Code
 - Implemented eslint + prettier configuration in personal Vue project
 - Continuation of the flutter course in Platzi
 - Playing with Strapi to create a "mock" API
+
+### Day 3: 3 January 2019
+
+**Today's Progress**:
+
+- Investigation about Stateless widgets in flutter
+- Looking for information about how to deploy in Heroku and Zeit Now and Strapi api using a monorepo
+
+### Day 4: 4 January 2019
+
+**Today's Progress**:
+
+- Completed 75% OAuth course on Platzi
