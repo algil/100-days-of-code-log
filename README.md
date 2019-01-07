@@ -53,3 +53,13 @@ The log of my challenge 100 Days Of Code
 
 - Completed "Introducción al Diseño de Prototipos" course on Platzi
 - I've completed the design of the first version of my personal webpage for desktop and I started to code it
+
+### Day 7: 7 January 2019
+
+**Today's Progress**:
+
+- I've finished coding the first version of my website. It's very simple but I'm very happy how it looks - [antonioluisgil.com](https://antonioluisgil.com)
+
+**Link to work:**
+
+- [GitHub repo](https://github.com/algil/antonioluisgil.com)
