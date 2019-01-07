@@ -35,3 +35,21 @@ The log of my challenge 100 Days Of Code
 **Today's Progress**:
 
 - Completed 75% OAuth course on Platzi
+
+### Day 5: 5 January 2019
+
+**Today's Progress**:
+
+- I've finished OAuth course on Platzi
+- I've started my personal web page with Gridsome
+
+**Link to work:**
+
+- [Personal webpage](https://github.com/algil/antonioluisgil.com)
+
+### Day 6: 6 January 2019
+
+**Today's Progress**:
+
+- Completed "Introducción al Diseño de Prototipos" course on Platzi
+- I've completed the design of the first version of my personal webpage for desktop and I started to code it
